@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://toolforge1.github.io/</loc></url>
+  <url><loc>https://toolforge1.github.io/privacy-policy.html</loc></url>
+  <url><loc>https://toolforge1.github.io/terms.html</loc></url>
+  <url><loc>https://toolforge1.github.io/cookie-policy.html</loc></url>
+  <url><loc>https://toolforge1.github.io/about.html</loc></url>
+  <url><loc>https://toolforge1.github.io/contact.html</loc></url>
+  <url><loc>https://toolforge1.github.io/report-problem.html</loc></url>
 </urlset>
